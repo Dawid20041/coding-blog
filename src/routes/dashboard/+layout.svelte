@@ -8,7 +8,7 @@
     username="asd asddd"
     avatarSrc="https://www.thesun.co.uk/wp-content/uploads/2023/09/SC-Sam-Sulek-Transformation-Off-Plat-copy.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
   />
-  <div class="flex h-full">
+  <div class="flex h-full grow">
     <Sidebar />
     <div class=" w-full grow p-5">
       <slot />
