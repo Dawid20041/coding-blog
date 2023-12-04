@@ -3,7 +3,7 @@
   import { Code, Home, SmilePlus } from "lucide-svelte";
 </script>
 
-<aside class=" flex flex-col w-60 p-5 gap-1 border-r h-full">
+<aside class=" flex flex-col w-60 p-5 gap-1 border-r grow">
   <Button href="/dashboard" class="justify-start" variant="ghost"
     ><Home class="mr-4 h-4 w-4" />Home</Button
   >
